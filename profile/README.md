@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome
+
+This is the organizational account for the Applied Spatial Ecology and Technical Services group at Michigan State University.
 
 <!--
 
