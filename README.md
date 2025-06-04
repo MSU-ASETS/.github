@@ -1,1 +1,1 @@
-We will include any and all public repository here when avaliable.
+We will include any and all public repositories here when avaliable. Check back with us in the furture.
